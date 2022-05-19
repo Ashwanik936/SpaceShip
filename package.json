@@ -1,0 +1,23 @@
+{
+  "name": "spaceship",
+  "version": "1.0.0",
+  "description": "An Awesome Discord Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashwanik936/SpaceShip.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Interstaller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashwanik936/SpaceShip/issues"
+  },
+  "homepage": "https://github.com/Ashwanik936/SpaceShip#readme"
+}
